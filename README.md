@@ -1,10 +1,9 @@
 ### Hi there 👋
-## My name is Craig 
+# My name is Craig 
 
-<!--
-**CR1502/CR1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ... Improving my coding skills
 - 🌱 I’m currently learning ...Python and C++
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
