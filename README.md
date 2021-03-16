@@ -1,4 +1,5 @@
 ### Hi there 👋
+## My name is Craig 
 
 <!--
 **CR1502/CR1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
