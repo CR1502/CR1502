@@ -1,7 +1,4 @@
 ### Hi there 👋
 # My name is Craig 
 
-I'm a third-year student at Vellore Institute of Technology, Bhopal pursuing my Bachelor's degree in Computer Science and engineering with a specialization in AI and ML.
-I am inclined toward Machine Learning and Data Science and am fascinated by Deep Learning.
-I love to code in python,
-I am currently expanding my knowledge base in Deep Learning
+As a new grad student at Northeastern University, Boston, studying AI, I’m expanding my expertise in Artificial Intelligence, Machine Learning, and Data Science. I completed my Computer Science and Engineering undergraduate degree at VIT Bhopal, focusing on AI and ML. I am deeply interested in Deep Learning and cutting-edge technologies, and I’m excited about how these innovations shape the future. I look forward to applying my skills to solve real-world problems in this dynamic and evolving field.
