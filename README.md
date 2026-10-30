@@ -2,9 +2,36 @@
 
 ### AI, machine learning, and the systems that make them useful.
 
+[LinkedIn](https://linkedin.com/in/croberts02) · [GitHub](https://github.com/CR1502)
+
 I'm **Craig Lionel Roberts**. My academic background spans graduate study in Artificial Intelligence at **Northeastern University, Boston**, and a Computer Science and Engineering degree focused on AI and ML from **VIT Bhopal**.
 
 I build projects across applied machine learning, natural language processing, and model serving. I’m interested in the full path from an idea to a working application: preparing data, evaluating models, building interfaces, and understanding deployment tradeoffs.
+
+## Work experience
+
+**AI Engineer Co-op · Staples**  
+Jan–Aug 2026 · Framingham, MA
+
+- Built multi-agent document extraction workflows on Databricks Model Serving, with schema validation and Azure DevOps delivery pipelines.
+- Developed a RAG assistant for customer-service representatives using Azure AI Search and Azure OpenAI, with access controls and an offline evaluation framework.
+- Created a multi-engine extraction service combining document parsers and vision models behind a shared validated schema.
+
+**Graduate Teaching Assistant · Northeastern University**  
+Sep–Dec 2025 · CS5100: Foundations of AI · Boston, MA
+
+- Supported graduate students studying search algorithms, probabilistic reasoning, and decision-making frameworks.
+
+**Graduate Teaching Assistant · Northeastern University**  
+May–Aug 2025 · CS6120: Natural Language Processing · Boston, MA
+
+- Led labs, tutorials, and office hours covering embeddings, text classification, language modeling, and practical NLP with PyTorch, NLTK, and spaCy.
+
+**Machine Learning Intern · DeepRoot Minds Technologies**  
+Jun–Dec 2023 · Remote
+
+- Developed CNN-based diagnostic models for clinical images and generative data augmentation workflows.
+- Improved model training workflows with MLflow and collaborated with clinical teams.
 
 ## Selected projects
 
